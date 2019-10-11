@@ -108,7 +108,7 @@ and uses `pip` and `requirements.txt` to add required packages.
 Add a Travis status notification at the top of your README.md file, called a "badge". It looks like this:  
 [![Build Status](https://travis-ci.com/jbrucker/demo-pyci.svg?branch=master)](https://travis-ci.com/jbrucker/demo-pyci)
 
-The Markdown for this is:
+The Markdown for this is: [![Build Status](https://travis-ci.com/patdpat/demo-pysci.svg?branch=master)](https://travis-ci.com/patdpat/demo-pysci)
 
 ```markdown
 [![Build Status](https://travis-ci.com/patdpat/demo-pysci.svg?branch=master)](https://travis-ci.com/patdpat/demo-pysci)
