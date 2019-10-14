@@ -1,5 +1,9 @@
 # Continuous Integration Demo
 
+Travis ststus : [![Build Status](https://travis-ci.com/patdpat/demo-pysci.svg?branch=master)](https://travis-ci.com/patdpat/demo-pysci)
+
+https://travis-ci.com/patdpat/demo-pysci
+
 This project demonstrates use of Travis CI to build and test a Python project.  
 You will create a repository on Github, then have Travis-CI pull and test it,
 according to a "script" of instructions.
@@ -107,8 +111,6 @@ and uses `pip` and `requirements.txt` to add required packages.
 
 Add a Travis status notification at the top of your README.md file, called a "badge". It looks like this:  
 [![Build Status](https://travis-ci.com/jbrucker/demo-pyci.svg?branch=master)](https://travis-ci.com/jbrucker/demo-pyci)
-
-The Markdown for this is: [![Build Status](https://travis-ci.com/patdpat/demo-pysci.svg?branch=master)](https://travis-ci.com/patdpat/demo-pysci)
 
 ```markdown
 [![Build Status](https://travis-ci.com/patdpat/demo-pysci.svg?branch=master)](https://travis-ci.com/patdpat/demo-pysci)
